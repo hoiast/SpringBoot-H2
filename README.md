@@ -1,6 +1,6 @@
 # SpringBoot-H2
 A simple CRUD using [SpringBoot](https://spring.io/projects/spring-boot) and [H2](https://www.h2database.com/) database.
-This is a project bootstrapped using [spring initializr](https://start.spring.io/) and built with
+This project is bootstrapped using [spring initializr](https://start.spring.io/) and built with
 [Maven](https://maven.apache.org/) and [Kotlin](https://kotlinlang.org/).
 
 A simple function for detection of duplicates in a list of integers is available at the `/duplicates` endpoints. For 
