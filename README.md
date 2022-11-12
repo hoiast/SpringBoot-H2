@@ -20,7 +20,7 @@ instructions how to start and test this application.
   Returns all the duplicates entries registered in the in-memory database.
 
   ```
-  Example: GET /duplicates/2
+  Example: GET /duplicates/
   Response 200 OK 
   [
     {
